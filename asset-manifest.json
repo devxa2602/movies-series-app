@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movies-series-app/static/css/main.95c0fcfc.chunk.css",
+    "main.js": "/movies-series-app/static/js/main.14b91799.chunk.js",
+    "main.js.map": "/movies-series-app/static/js/main.14b91799.chunk.js.map",
+    "runtime-main.js": "/movies-series-app/static/js/runtime-main.c3ae6e52.js",
+    "runtime-main.js.map": "/movies-series-app/static/js/runtime-main.c3ae6e52.js.map",
+    "static/js/2.8f1c32d3.chunk.js": "/movies-series-app/static/js/2.8f1c32d3.chunk.js",
+    "static/js/2.8f1c32d3.chunk.js.map": "/movies-series-app/static/js/2.8f1c32d3.chunk.js.map",
+    "index.html": "/movies-series-app/index.html",
+    "precache-manifest.d19ef94482c9566470833657496ca03b.js": "/movies-series-app/precache-manifest.d19ef94482c9566470833657496ca03b.js",
+    "service-worker.js": "/movies-series-app/service-worker.js",
+    "static/css/main.95c0fcfc.chunk.css.map": "/movies-series-app/static/css/main.95c0fcfc.chunk.css.map"
+  }
+}
